@@ -3,7 +3,7 @@
 A one-page GPA and class-of-degree calculator for Ghana Communication Technology University students.
 Enter each course's credit hours and grade; it weights by credits and shows your GPA and class.
 
-**Live:** https://nadeem0305.github.io/gctu-gpa/
+**Live:** https://gctu-gpa.vercel.app
 
 - No build step, no dependencies: `index.html` + `gpa.js`.
 - Courses are saved in your browser (localStorage), nothing is sent anywhere.
